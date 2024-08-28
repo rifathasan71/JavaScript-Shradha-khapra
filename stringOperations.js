@@ -10,3 +10,4 @@ console.log(myString);
  let newStr2=" and you are ?";
  newStr+=newStr2;
  console.log(newStr);
+ console.log(urStr.length);
