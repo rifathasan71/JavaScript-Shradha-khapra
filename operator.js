@@ -36,6 +36,9 @@ let e=a>b;
 console.log("d && e",d && e);
 console.log("d || e",d || e);
 console.log("!a<b",!(a<b));
+console.log("ternary operator")
+let age=20;
+console.log(age<17? "young": "old")
 
 
 
