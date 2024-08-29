@@ -9,5 +9,8 @@ console.log(myString);
  let newStr="i am refat";
  let newStr2=" and you are ?";
  newStr+=newStr2;
+ let mystr="refathasan";
  console.log(newStr);
- console.log(urStr.length);
+ console.log(newStr.length);
+ console.log(urStr[0])
+ console.log(mystr[mystr.length-1]);
