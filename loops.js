@@ -13,6 +13,7 @@
 // console.log(j) // var is working so we don.t get error outside the block for j
 
 
+
 //while loop
 
 // let i=1;
@@ -20,6 +21,8 @@
 //     console.log("*");
 //     i++;
 // }
+
+
 
 // //do while loop
 
@@ -29,6 +32,8 @@
 //     j++;
 // }
 // while(j<9);
+
+
 
 // for of loop ( for string and array)
 // let str="refathasan";
@@ -40,18 +45,22 @@
 // console.log(size)
 
 
+
 //for in loop
 // let student={
 //     name:"refat",
 //     age:22,
 //     roll:25,
-
 // };
 // for (let i in student){
 //     console.log(i," ",student[i]) //return keys( for in)
 // }
 
+
+
 //print all even in 0 t0 100
+
+
 // for(let i=0;i<=100;i++){
 //     if(i%2===0){
         
