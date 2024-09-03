@@ -1,0 +1,15 @@
+/* .heading{ 
+    color: rgb(212, 58, 181);
+    text-decoration: line-through ;
+}
+body{
+    background-color: rgb(183, 184, 164);
+} */
+ .box{
+    height: 100px;
+    width: 100px;
+    border: 2px;
+    margin: 10px;
+    text-align: center;
+    background-color: brown;
+ }
