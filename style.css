@@ -1,11 +1,11 @@
-/* .heading{ 
+/* /* .heading{ 
     color: rgb(212, 58, 181);
     text-decoration: line-through ;
 }
 body{
     background-color: rgb(183, 184, 164);
 } */
- #box{
+ /* #box{
     height: 100px;
     width: 100px;
     border: 2px;
@@ -19,4 +19,44 @@ body{
  }
  .newClass{
     background-color: aqua;
- }
+ } */
+
+/*
+div{
+   height: 100px;
+   width: 150px;
+   background-color: chocolate;
+   color: crimson;
+   border: blue;
+   border-width: 2px;
+} */
+/* Default light mode styling */
+body.light {
+   background-color: white;
+   color: black;
+}
+
+/* Dark mode styling */
+body.dark {
+   background-color: black;
+   color: white;
+}
+
+/* Button style for light mode */
+body.light #btn1 {
+   background-color: black;
+   color: white;
+}
+
+/* Button style in dark mode (when body is dark) */
+body.dark #btn1 {
+   background-color: white;
+   color: black;
+}
+#btn1 {
+   padding: 10px 20px;
+   font-size: 16px;
+   cursor: pointer;
+   border: 2px solid black;
+   transition: background-color 0.3s, color 0.3s;
+}

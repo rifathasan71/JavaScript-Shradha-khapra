@@ -57,6 +57,8 @@
 // newBTN.innerText="click me"
 // newBTN.style.backgroundColor="red"
 // newBTN.style.color="white"
-// document.querySelector("body").prepend(newBTN)
-let p=document.querySelector("p")
-p.classList.add("newClass")
+// // document.querySelector("body").prepend(newBTN)
+// let p=document.querySelector("p")
+// p.classList.add("newClass")
+
+
